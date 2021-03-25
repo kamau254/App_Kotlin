@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323188529781",
+    "project_id": "nyumba-a5330",
+    "storage_bucket": "nyumba-a5330.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323188529781:android:cb179887cd7d416474f63c",
+        "android_client_info": {
+          "package_name": "com.example.nyumba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323188529781-g4ac5org7relsu1q1q76335uhvi87e5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVvU4JPZ4M3oixEj6BvckQMklMH9TU7gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323188529781-g4ac5org7relsu1q1q76335uhvi87e5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
